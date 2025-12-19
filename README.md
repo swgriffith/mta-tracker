@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 3. Set your API key as an environment variable:
 ```bash
-export MTA_API_KEY=''
+export MTA_API_KEY='your-api-key'
 ```
 
 ### Optional: Configure with Environment Variables
